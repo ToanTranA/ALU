@@ -1,0 +1,407 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/veron5/project/DV_project/alu_dv_courses_lab1
+T_opt
+Z2 !s11d testbench_sv_unit /home/veron5/project/DV_project/alu_dv_courses_lab1/work 1 alu_interface 1 /home/veron5/project/DV_project/alu_dv_courses_lab1/work 
+!s110 1755246108
+VV29O=CBA[>]]NDY<eIHmF2
+Z3 04 9 4 work testbench fast 0
+=1-001cc447b718-689eee1b-ed2ee-9492
+Z4 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.2_1;73
+R1
+T_opt1
+R2
+!s110 1755243233
+Vg=kQ:e`G4Fa3o;JiPQNAP2
+R3
+=1-001cc447b718-689ee2e1-75c86-4527
+R4
+o-quiet -auto_acc_if_foreign -work work
+R5
+n@_opt1
+R6
+R1
+valu
+Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z8 !s110 1755247073
+!i10b 1
+!s100 6AN>enj5hYcPUH_HVjoI:3
+IJ>?Pj:ID:S`OUXfWNW9HJ0
+!s105 alu_coverage_sv_unit
+S1
+R1
+w1754968644
+8alu.sv
+Falu.sv
+!i122 60
+L0 1 36
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.2_1;73
+r1
+!s85 0
+31
+Z11 !s108 1755247073.000000
+Z12 !s107 testbench.sv|alu.sv|alu_interface.sv|alu_enviroment.sv|alu_coverage.sv|alu_scoreboard.sv|alu_driver.sv|alu_monitor.sv|alu_generator.sv|alu_transaction.sv|
+Z13 !s90 alu_transaction.sv|alu_generator.sv|alu_monitor.sv|alu_driver.sv|alu_scoreboard.sv|alu_coverage.sv|alu_enviroment.sv|alu_interface.sv|alu.sv|testbench.sv|
+!i113 0
+Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+Xalu_coverage_sv_unit
+R7
+R7
+Z15 DXx4 work 19 alu_transaction_pkg 0 22 Ez;4?lAUF]L^cXW_7B]IQ1
+Z16 !s110 1755246066
+V216ogR16G2aia=ZQFn4L;1
+r1
+!s85 0
+!i10b 1
+!s100 KkNlTdQkI?^PRM^`N9BKP1
+I216ogR16G2aia=ZQFn4L;1
+!i103 1
+S1
+R1
+Z17 w1755246056
+8alu_coverage.sv
+Z18 Falu_coverage.sv
+!i122 58
+Z19 L0 2 0
+R10
+31
+Z20 !s108 1755246066.000000
+R12
+R13
+!i113 0
+R14
+R5
+Xalu_driver_sv_unit
+Z21 !s115 alu_interface
+R7
+R7
+R15
+R8
+VkWFfjMc0IYXDU7<kE^67e0
+r1
+!s85 0
+!i10b 1
+!s100 W:L=BF0OBOENiQzBbIhEb0
+IkWFfjMc0IYXDU7<kE^67e0
+!i103 1
+S1
+R1
+w1755232722
+8alu_driver.sv
+Z22 Falu_driver.sv
+!i122 60
+R19
+R10
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5
+Xalu_enviroment_sv_unit
+R21
+R7
+R7
+R15
+R16
+V8YzM5Inh:lTY?A;n@TSJF0
+r1
+!s85 0
+!i10b 1
+!s100 KQhPEUV4g18UVX7LGdAE73
+I8YzM5Inh:lTY?A;n@TSJF0
+!i103 1
+S1
+R1
+R17
+8alu_enviroment.sv
+Z23 Falu_enviroment.sv
+Z24 Falu_generator.sv
+R22
+Z25 Falu_monitor.sv
+Z26 Falu_scoreboard.sv
+R18
+!i122 58
+R19
+R10
+31
+R20
+R12
+R13
+!i113 0
+R14
+R5
+Xalu_generator_sv_unit
+R7
+R15
+R8
+V]_g[0ZjNZ>]0;RREz0NS92
+r1
+!s85 0
+!i10b 1
+!s100 QJ]LQ60:@[ZRWc5c=n1Qc0
+I]_g[0ZjNZ>]0;RREz0NS92
+!i103 1
+S1
+R1
+w1755232781
+8alu_generator.sv
+R24
+!i122 60
+Z27 L0 1 0
+R10
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5
+Yalu_interface
+R7
+R7
+R15
+DXx4 work 21 alu_interface_sv_unit 0 22 gEUafhde;8FCN>7N[IkkF0
+R16
+R9
+r1
+!s85 0
+!i10b 1
+!s100 <ZZhTT4IzS0B26D5aNW6m1
+IzzkKXDY1il078IMRmi<TA2
+!s105 alu_interface_sv_unit
+S1
+R1
+Z28 w1755232935
+Z29 8alu_interface.sv
+Z30 Falu_interface.sv
+!i122 58
+L0 3 0
+R10
+31
+R20
+R12
+R13
+!i113 0
+R14
+R5
+Xalu_interface_sv_unit
+R7
+R7
+R15
+R16
+VgEUafhde;8FCN>7N[IkkF0
+r1
+!s85 0
+!i10b 1
+!s100 OPD_W5IzICLGCk:Czmj@C3
+IgEUafhde;8FCN>7N[IkkF0
+!i103 1
+S1
+R1
+R28
+R29
+R30
+!i122 58
+R27
+R10
+31
+R20
+R12
+R13
+!i113 0
+R14
+R5
+Xalu_monitor_sv_unit
+R21
+R7
+R7
+R15
+R8
+VPGmSXOk>lKhI70m6aWWLa3
+r1
+!s85 0
+!i10b 1
+!s100 FH884GSTNY]H4;P7EBJkB2
+IPGmSXOk>lKhI70m6aWWLa3
+!i103 1
+S1
+R1
+w1755232737
+8alu_monitor.sv
+R25
+!i122 60
+R19
+R10
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5
+Xalu_scoreboard_sv_unit
+R7
+R7
+R15
+R8
+V[31UYHoE5jgGP7U_k0k3i2
+r1
+!s85 0
+!i10b 1
+!s100 MOECXn6d_0INnSGEHaM:a2
+I[31UYHoE5jgGP7U_k0k3i2
+!i103 1
+S1
+R1
+w1755232812
+8alu_scoreboard.sv
+R26
+!i122 60
+R19
+R10
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5
+Xalu_transaction_pkg
+R7
+R8
+!i10b 1
+!s100 <f4n8dY6RX@ACLhP3`?_>1
+IEz;4?lAUF]L^cXW_7B]IQ1
+S1
+R1
+w1755232477
+Z31 8alu_transaction.sv
+Z32 Falu_transaction.sv
+!i122 60
+R27
+VEz;4?lAUF]L^cXW_7B]IQ1
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5
+Xalu_transaction_sv_unit
+R7
+!s110 1755050924
+VaAZ_Z`5IZ98<fR@I0<JRN0
+r1
+!s85 0
+!i10b 1
+!s100 >O`iHYD`IAGO0i@CL?W8@2
+IaAZ_Z`5IZ98<fR@I0<JRN0
+!i103 1
+S1
+R1
+w1754277272
+R31
+R32
+!i122 16
+R27
+R10
+31
+!s108 1755050924.000000
+!s107 testbench.sv|alu_enviroment.sv|alu_coverage.sv|alu_scoreboard.sv|alu_monitor.sv|alu_driver.sv|alu_generator.sv|alu_transaction.sv|alu_interface.sv|alu.sv|
+!s90 -f|file_list.f|
+!i113 0
+R14
+R5
+vtestbench
+R7
+R7
+R15
+DXx4 work 17 testbench_sv_unit 0 22 8mmHj:I?eiFjfBVU]b13<1
+R16
+R9
+r1
+!s85 0
+!i10b 1
+!s100 =UKURR>`EYje^VEY:22C91
+I=G1l:zf]VEkk=cX6?@Yen0
+!s105 testbench_sv_unit
+S1
+R1
+w1755240006
+Z33 8testbench.sv
+Z34 Ftestbench.sv
+!i122 58
+L0 5 33
+R10
+31
+R20
+R12
+R13
+!i113 0
+R14
+R5
+Xtestbench_sv_unit
+R21
+R7
+R7
+R15
+R16
+V8mmHj:I?eiFjfBVU]b13<1
+r1
+!s85 0
+!i10b 1
+!s100 Yg?@A3THD[_UBM]hAi34T0
+I8mmHj:I?eiFjfBVU]b13<1
+!i103 1
+S1
+R1
+R17
+R33
+R34
+R23
+R24
+R22
+R25
+R26
+R18
+!i122 58
+R19
+R10
+31
+R20
+R12
+R13
+!i113 0
+R14
+R5

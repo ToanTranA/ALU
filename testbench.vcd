@@ -1,0 +1,12 @@
+$date
+	Fri Aug 15 15:22:03 2025
+$end
+$version
+	QuestaSim Version 2021.2_1
+$end
+$timescale
+	1ns
+$end
+
+$scope module testbench $end
+$var reg 1 ! clk $end
